@@ -2,8 +2,9 @@ Pakistan E-Commerce Ecosystem Analysis (2016-2018) 🇵🇰📊
 Executive Summary
 This project performs a deep-dive Exploratory Data Analysis (EDA) on a dataset of over 500,000 transactions from the Pakistan E-commerce ecosystem. The analysis reveals a market dominated by mobile technology but hampered by payment infrastructure challenges and seasonal fluctuations.
 ## 📁 Dataset Source
-The analysis is based on the **Pakistan E-Commerce Dataset** which can be accessed here:
-[Download Dataset from Kaggle]([https://www.kaggle.com/datasets/zhijinzhai/loandata](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset)) 
+The analysis is based on the **Pakistan E-Commerce Dataset**. You can download it from Kaggle:
+
+[Click Here to Download Dataset](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset) 
 🛠️ Tech Stack & Libraries
 Language: Python
 
